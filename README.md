@@ -21,6 +21,10 @@ sudo apt install libgirepository1.0-dev
 
 install [PyGObject](https://pygobject.gnome.org/getting_started.html)
 
+## Launch
+```
+python3 -m rs232monitor
+```
 
 ## usage Arduino
 more example [sketch](https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-plotter/#example-sketch)
